@@ -1,4 +1,4 @@
-<img width="90" height="21" alt="image" src="https://github.com/user-attachments/assets/79d17bbb-d8d3-47ef-8824-9013f9a697fb" /># Sales Performance Analysis
+## Sales Performance Analysis
 
 ## Project Overview
 
