@@ -1,4 +1,4 @@
-# Sales Performance Analysis
+<img width="90" height="21" alt="image" src="https://github.com/user-attachments/assets/79d17bbb-d8d3-47ef-8824-9013f9a697fb" /># Sales Performance Analysis
 
 ## Project Overview
 
@@ -54,3 +54,5 @@ The dataset includes intentional data quality issues such as inconsistent text f
 | Clean Revenue | Rp 1.497.555.824 |
 | Clean Profit | Rp 410.559.824 |
 | Clean Orders | 659 |
+| High Revenue from Monitor 24 Inch | Rp 584.313.250 |
+| High Margin from Monitor 24 Inch | Rp 120.078.250 |
